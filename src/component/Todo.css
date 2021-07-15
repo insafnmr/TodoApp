@@ -1,0 +1,7 @@
+.todo{
+    width: 600px;
+    display: flex;
+    justify-content:space-between;
+    align-items: baseline;
+    margin-left: 450px;
+  }
